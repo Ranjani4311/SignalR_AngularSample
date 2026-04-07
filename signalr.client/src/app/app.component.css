@@ -1,6 +1,7 @@
 ﻿/* Stock Grid Styles */
 
-.app-container {
+.control-section {
+  margin: 5px;
   padding: 20px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
